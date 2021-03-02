@@ -15,7 +15,7 @@ import java.util.LinkedList;
  * @author: Miluo
  * @date: 2021/2/7
  **/
-public class Algorithm1 {
+public class LintCode01 {
     public static void main(String[] args) {
 //        int[] arr = new int[]{1,1,2,3,3,3,4,5};
         int[] arr = new int[]{5,5,5,1,1,2,3,3,3,4};
